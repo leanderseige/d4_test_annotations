@@ -1,0 +1,58 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "https://github.com/leanderseige/d4_test_annotations/blob/main/workspaces/ws2/annotations/b8ee3549-bacb-534e-be55-3c667cf35af4.json",
+  "items": [
+    {
+      "body": [
+        {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>fire&nbsp;hole?</p>"
+        }
+      ],
+      "maeData": {
+        "tags": [],
+        "target": {
+          "drawingState": "{\"currentShape\":{\"fill\":\"rgba(100,100,100, 0)\",\"height\":343.80165289256195,\"id\":\"5f6561db-d7cd-4244-bde2-b7a748d994eb\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":254.41322314049603,\"x\":1179.2396694214874,\"y\":763.2396694214875},\"isDrawing\":true,\"shapes\":[{\"fill\":\"rgba(100,100,100, 0)\",\"height\":343.80165289256195,\"id\":\"5f6561db-d7cd-4244-bde2-b7a748d994eb\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":254.41322314049603,\"x\":1179.2396694214874,\"y\":763.2396694214875}]}",
+          "fullCanvaXYWH": "0,0,3328,4992",
+          "scale": 0.8938842975206612,
+          "svg": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='3328' height='4992'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 1179.2396694214874 763.2396694214875 L 1433.6528925619834 763.2396694214875 L 1433.6528925619834 1107.0413223140495 L 1179.2396694214874 1107.0413223140495 L 1179.2396694214874 763.2396694214875 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='3' stroke-dasharray=''/></g></g></svg>"
+        },
+        "templateType": "multiple_body",
+        "textBody": {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>fire&nbsp;hole?</p>"
+        }
+      },
+      "motivation": "commenting",
+      "target": {
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='3328' height='4992'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 1179.2396694214874 763.2396694214875 L 1433.6528925619834 763.2396694214875 L 1433.6528925619834 1107.0413223140495 L 1179.2396694214874 1107.0413223140495 L 1179.2396694214874 763.2396694214875 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='3' stroke-dasharray=''/></g></g></svg>"
+          },
+          {
+            "type": "FragmentSelector",
+            "value": "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_013.json#"
+          }
+        ],
+        "source": "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_013.json"
+      },
+      "id": "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_013.json/annotation/7d451684-61f5-4dde-b71d-33741e0e2a47",
+      "creationDate": "06.09.26, 06:59",
+      "creator": "detektIIIF User"
+    }
+  ],
+  "partOf": {
+    "id": "https://github.com/leanderseige/d4_test_annotations/tree/main/workspaces/ws2",
+    "label": {
+      "none": [
+        "ws2"
+      ]
+    },
+    "type": "Collection"
+  },
+  "target": "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_013.json",
+  "type": "AnnotationPage"
+}
