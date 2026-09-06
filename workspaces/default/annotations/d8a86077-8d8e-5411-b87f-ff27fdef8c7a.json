@@ -1,6 +1,6 @@
 {
   "@context": "http://www.w3.org/ns/anno.jsonld",
-  "id": "https://github.com/leanderseige/d4_test_annotations/blob/main/workspaces/default/annotations/d8a86077-8d8e-5411-b87f-ff27fdef8c7a.json",
+  "id": "https://raw.githubusercontent.com/leanderseige/d4_test_annotations/main/workspaces/default/annotations/d8a86077-8d8e-5411-b87f-ff27fdef8c7a.json",
   "items": [
     {
       "body": [
@@ -41,6 +41,47 @@
       },
       "id": "https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-667/canvas/123768/annotation/038738dc-8d0c-46b2-9d61-500abad727b3",
       "creationDate": "05.09.26, 11:12",
+      "creator": "detektIIIF User"
+    },
+    {
+      "body": [
+        {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>person</p>"
+        }
+      ],
+      "maeData": {
+        "tags": [],
+        "target": {
+          "drawingState": "{\"currentShape\":{\"fill\":\"rgba(100,100,100, 0)\",\"height\":387.8789808917198,\"id\":\"0332166d-83de-44cc-b425-7cbe4971f6a6\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":229.312101910828,\"x\":391.53821656050957,\"y\":465.94267515923565},\"isDrawing\":true,\"shapes\":[{\"fill\":\"rgba(100,100,100, 0)\",\"height\":387.8789808917198,\"id\":\"0332166d-83de-44cc-b425-7cbe4971f6a6\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":229.312101910828,\"x\":391.53821656050957,\"y\":465.94267515923565}]}",
+          "fullCanvaXYWH": "0,0,1149,1772",
+          "scale": 0.9030853994490358,
+          "svg": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='1149' height='1772'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 391.53821656050957 465.94267515923565 L 620.8503184713376 465.94267515923565 L 620.8503184713376 853.8216560509554 L 391.53821656050957 853.8216560509554 L 391.53821656050957 465.94267515923565 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='3' stroke-dasharray=''/></g></g></svg>"
+        },
+        "templateType": "multiple_body",
+        "textBody": {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>person</p>"
+        }
+      },
+      "motivation": "commenting",
+      "target": {
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='1149' height='1772'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 391.53821656050957 465.94267515923565 L 620.8503184713376 465.94267515923565 L 620.8503184713376 853.8216560509554 L 391.53821656050957 853.8216560509554 L 391.53821656050957 465.94267515923565 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='3' stroke-dasharray=''/></g></g></svg>"
+          },
+          {
+            "type": "FragmentSelector",
+            "value": "https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-667/canvas/123768#"
+          }
+        ],
+        "source": "https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-667/canvas/123768"
+      },
+      "id": "https://raw.githubusercontent.com/leanderseige/d4_test_annotations/main/workspaces/default/annotations/d8a86077-8d8e-5411-b87f-ff27fdef8c7a.json#b582fe6f-0a44-4a88-aeca-4132e2283a4a",
+      "creationDate": "06.09.26, 07:32",
       "creator": "detektIIIF User"
     }
   ],
