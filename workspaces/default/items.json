@@ -1,0 +1,11 @@
+{
+  "https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-667/manifest": {
+    "id": "https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-667/manifest",
+    "url": "https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-667/manifest",
+    "cors": true,
+    "error": 0,
+    "version": 2,
+    "label": "Ehemaliges Hochaltarbild der Kapelle von Schloss Thurnmühle in Schwechat",
+    "thumb": "https://sammlung.belvedere.at/apis/iiif/image/v2/123768/full/%21100%2C100/0/default.jpg"
+  }
+}
