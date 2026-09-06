@@ -1,0 +1,58 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "https://github.com/leanderseige/d4_test_annotations/blob/main/workspaces/default/annotations/d8a86077-8d8e-5411-b87f-ff27fdef8c7a.json",
+  "items": [
+    {
+      "body": [
+        {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>head</p>"
+        }
+      ],
+      "maeData": {
+        "tags": [],
+        "target": {
+          "drawingState": "{\"currentShape\":{\"fill\":\"rgba(100,100,100, 0)\",\"height\":161.00636942675163,\"id\":\"e0e0ea06-1701-420a-bf26-a7492bf39b40\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":187.84076433121015,\"x\":372.0222929936306,\"y\":441.54777070063693},\"isDrawing\":true,\"shapes\":[{\"fill\":\"rgba(100,100,100, 0)\",\"height\":161.00636942675163,\"id\":\"e0e0ea06-1701-420a-bf26-a7492bf39b40\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":187.84076433121015,\"x\":372.0222929936306,\"y\":441.54777070063693}]}",
+          "fullCanvaXYWH": "0,0,1149,1772",
+          "scale": 0.9030853994490358,
+          "svg": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='1149' height='1772'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 372.0222929936306 441.54777070063693 L 559.8630573248407 441.54777070063693 L 559.8630573248407 602.5541401273886 L 372.0222929936306 602.5541401273886 L 372.0222929936306 441.54777070063693 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='3' stroke-dasharray=''/></g></g></svg>"
+        },
+        "templateType": "multiple_body",
+        "textBody": {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>head</p>"
+        }
+      },
+      "motivation": "commenting",
+      "target": {
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='1149' height='1772'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 372.0222929936306 441.54777070063693 L 559.8630573248407 441.54777070063693 L 559.8630573248407 602.5541401273886 L 372.0222929936306 602.5541401273886 L 372.0222929936306 441.54777070063693 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='3' stroke-dasharray=''/></g></g></svg>"
+          },
+          {
+            "type": "FragmentSelector",
+            "value": "https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-667/canvas/123768#"
+          }
+        ],
+        "source": "https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-667/canvas/123768"
+      },
+      "id": "https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-667/canvas/123768/annotation/038738dc-8d0c-46b2-9d61-500abad727b3",
+      "creationDate": "05.09.26, 11:12",
+      "creator": "detektIIIF User"
+    }
+  ],
+  "partOf": {
+    "id": "https://github.com/leanderseige/d4_test_annotations/tree/main/workspaces/default",
+    "label": {
+      "none": [
+        "default"
+      ]
+    },
+    "type": "Collection"
+  },
+  "target": "https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-667/canvas/123768",
+  "type": "AnnotationPage"
+}
