@@ -1,0 +1,58 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "https://raw.githubusercontent.com/leanderseige/d4_test_annotations/main/workspaces/default/annotations/0b31a998-987a-5f69-8d98-62142397c387.json",
+  "items": [
+    {
+      "body": [
+        {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>Ralle</p>"
+        }
+      ],
+      "maeData": {
+        "tags": [],
+        "target": {
+          "drawingState": "{\"currentShape\":{\"fill\":\"rgba(100,100,100, 0)\",\"height\":78.52600297176821,\"id\":\"b14b35a6-1cef-4697-8cd5-e3ee13b72456\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":138.51114413075777,\"x\":414.98811292719165,\"y\":882.3268945022288},\"isDrawing\":true,\"shapes\":[{\"fill\":\"rgba(100,100,100, 0)\",\"height\":78.52600297176821,\"id\":\"b14b35a6-1cef-4697-8cd5-e3ee13b72456\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":138.51114413075777,\"x\":414.98811292719165,\"y\":882.3268945022288}]}",
+          "fullCanvaXYWH": "0,0,1468,1949",
+          "scale": 0.9052434247341914,
+          "svg": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='1468' height='1949'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 414.98811292719165 882.3268945022288 L 553.4992570579494 882.3268945022288 L 553.4992570579494 960.852897473997 L 414.98811292719165 960.852897473997 L 414.98811292719165 882.3268945022288 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='3' stroke-dasharray=''/></g></g></svg>"
+        },
+        "templateType": "multiple_body",
+        "textBody": {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>Ralle</p>"
+        }
+      },
+      "motivation": "commenting",
+      "target": {
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='1468' height='1949'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 414.98811292719165 882.3268945022288 L 553.4992570579494 882.3268945022288 L 553.4992570579494 960.852897473997 L 414.98811292719165 960.852897473997 L 414.98811292719165 882.3268945022288 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='3' stroke-dasharray=''/></g></g></svg>"
+          },
+          {
+            "type": "FragmentSelector",
+            "value": "https://api.onb.ac.at/iiif/presentation/v3/manifest/1000C389/canvas/10#"
+          }
+        ],
+        "source": "https://api.onb.ac.at/iiif/presentation/v3/manifest/1000C389/canvas/10"
+      },
+      "id": "https://raw.githubusercontent.com/leanderseige/d4_test_annotations/main/workspaces/default/annotations/0b31a998-987a-5f69-8d98-62142397c387.json#8f2c65c2-6829-422e-a20d-fcf0fb7d706a",
+      "creationDate": "06.09.26, 08:17",
+      "creator": "detektIIIF User"
+    }
+  ],
+  "partOf": {
+    "id": "https://github.com/leanderseige/d4_test_annotations/tree/main/workspaces/default",
+    "label": {
+      "none": [
+        "default"
+      ]
+    },
+    "type": "Collection"
+  },
+  "target": "https://api.onb.ac.at/iiif/presentation/v3/manifest/1000C389/canvas/10",
+  "type": "AnnotationPage"
+}
