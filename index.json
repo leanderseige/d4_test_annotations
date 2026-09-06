@@ -1,7 +1,7 @@
 {
   "generatedBy": "detektIIIF",
   "type": "detektIIIF:WorkspaceIndex",
-  "updatedAt": "2026-09-06T05:32:43.413Z",
+  "updatedAt": "2026-09-06T06:16:12.854Z",
   "version": 1,
   "workspaces": {
     "default": {
@@ -16,9 +16,9 @@
       "annotationsUpdatedAt": "2026-09-06T05:32:43.412Z",
       "id": "default",
       "itemsPath": "workspaces/default/items.json",
-      "itemsUpdatedAt": "2026-09-05T09:12:22.877Z",
+      "itemsUpdatedAt": "2026-09-06T06:16:12.852Z",
       "name": "default",
-      "updatedAt": "2026-09-06T05:32:43.412Z"
+      "updatedAt": "2026-09-06T06:16:12.852Z"
     },
     "ws2": {
       "annotations": {
