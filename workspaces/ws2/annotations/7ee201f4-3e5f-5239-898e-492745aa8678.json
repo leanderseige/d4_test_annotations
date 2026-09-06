@@ -1,0 +1,140 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "https://github.com/leanderseige/d4_test_annotations/blob/main/workspaces/ws2/annotations/7ee201f4-3e5f-5239-898e-492745aa8678.json",
+  "items": [
+    {
+      "body": [
+        {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>some&nbsp;text</p>"
+        }
+      ],
+      "maeData": {
+        "tags": [],
+        "target": {
+          "drawingState": "{\"currentShape\":{\"fill\":\"rgba(100,100,100, 0)\",\"height\":261.28925619834695,\"id\":\"f7d4cbbb-4c03-4782-8492-f3ac8a4ce05d\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":618.8429752066118,\"x\":1859.9669421487602,\"y\":1333.9504132231405},\"isDrawing\":true,\"shapes\":[{\"fill\":\"rgba(100,100,100, 0)\",\"height\":261.28925619834695,\"id\":\"f7d4cbbb-4c03-4782-8492-f3ac8a4ce05d\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":618.8429752066118,\"x\":1859.9669421487602,\"y\":1333.9504132231405}]}",
+          "fullCanvaXYWH": "0,0,3328,4992",
+          "scale": 0.8938842975206612,
+          "svg": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='3328' height='4992'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 1859.9669421487602 1333.9504132231405 L 2478.809917355372 1333.9504132231405 L 2478.809917355372 1595.2396694214874 L 1859.9669421487602 1595.2396694214874 L 1859.9669421487602 1333.9504132231405 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='3' stroke-dasharray=''/></g></g></svg>"
+        },
+        "templateType": "multiple_body",
+        "textBody": {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>some&nbsp;text</p>"
+        }
+      },
+      "motivation": "commenting",
+      "target": {
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='3328' height='4992'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 1859.9669421487602 1333.9504132231405 L 2478.809917355372 1333.9504132231405 L 2478.809917355372 1595.2396694214874 L 1859.9669421487602 1595.2396694214874 L 1859.9669421487602 1333.9504132231405 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='3' stroke-dasharray=''/></g></g></svg>"
+          },
+          {
+            "type": "FragmentSelector",
+            "value": "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_003.json#"
+          }
+        ],
+        "source": "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_003.json"
+      },
+      "id": "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_003.json/annotation/14f41848-8990-4413-b895-c632c53a5aac",
+      "creationDate": "05.09.26, 11:14",
+      "creator": "detektIIIF User"
+    },
+    {
+      "body": [
+        {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>2nd&nbsp;arc</p>"
+        }
+      ],
+      "maeData": {
+        "tags": [],
+        "target": {
+          "drawingState": "{\"currentShape\":{\"fill\":\"rgba(100,100,100, 0)\",\"height\":536.3305785123966,\"id\":\"6b16aa0e-ad88-435f-8317-7a3b1fb2e86b\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":797.6198347107438,\"x\":1041.7190082644627,\"y\":385.0578512396694},\"isDrawing\":true,\"shapes\":[{\"fill\":\"rgba(100,100,100, 0)\",\"height\":536.3305785123966,\"id\":\"6b16aa0e-ad88-435f-8317-7a3b1fb2e86b\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":797.6198347107438,\"x\":1041.7190082644627,\"y\":385.0578512396694}]}",
+          "fullCanvaXYWH": "0,0,3328,4992",
+          "scale": 0.8938842975206612,
+          "svg": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='3328' height='4992'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 1041.7190082644627 385.0578512396694 L 1839.3388429752065 385.0578512396694 L 1839.3388429752065 921.388429752066 L 1041.7190082644627 921.388429752066 L 1041.7190082644627 385.0578512396694 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='3' stroke-dasharray=''/></g></g></svg>"
+        },
+        "templateType": "multiple_body",
+        "textBody": {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>2nd&nbsp;arc</p>"
+        }
+      },
+      "motivation": "commenting",
+      "target": {
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='3328' height='4992'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 1041.7190082644627 385.0578512396694 L 1839.3388429752065 385.0578512396694 L 1839.3388429752065 921.388429752066 L 1041.7190082644627 921.388429752066 L 1041.7190082644627 385.0578512396694 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='3' stroke-dasharray=''/></g></g></svg>"
+          },
+          {
+            "type": "FragmentSelector",
+            "value": "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_003.json#"
+          }
+        ],
+        "source": "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_003.json"
+      },
+      "id": "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_003.json/annotation/98b32850-cf92-4e56-8948-48d388e912f0",
+      "creationDate": "05.09.26, 11:16",
+      "creator": "detektIIIF User"
+    },
+    {
+      "body": [
+        {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>1st&nbsp;arc</p>"
+        }
+      ],
+      "maeData": {
+        "tags": [],
+        "target": {
+          "drawingState": "{\"currentShape\":{\"fill\":\"rgba(100,100,100, 0)\",\"height\":391.9338842975206,\"id\":\"ff3c1298-5437-4314-8ddb-6e58e6feaf76\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":859.504132231405,\"x\":237.22314049586774,\"y\":446.94214876033055},\"isDrawing\":false,\"shapes\":[{\"fill\":\"rgba(100,100,100, 0)\",\"height\":391.9338842975206,\"id\":\"ff3c1298-5437-4314-8ddb-6e58e6feaf76\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":859.504132231405,\"x\":237.22314049586774,\"y\":446.94214876033055}]}",
+          "fullCanvaXYWH": "0,0,3328,4992",
+          "scale": 0.8938842975206612,
+          "svg": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='3328' height='4992'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 237.22314049586774 446.94214876033055 L 1096.7272727272727 446.94214876033055 L 1096.7272727272727 838.8760330578511 L 237.22314049586774 838.8760330578511 L 237.22314049586774 446.94214876033055 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='3' stroke-dasharray=''/></g></g></svg>"
+        },
+        "templateType": "multiple_body",
+        "textBody": {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>1st&nbsp;arc</p>"
+        }
+      },
+      "motivation": "commenting",
+      "target": {
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='3328' height='4992'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 237.22314049586774 446.94214876033055 L 1096.7272727272727 446.94214876033055 L 1096.7272727272727 838.8760330578511 L 237.22314049586774 838.8760330578511 L 237.22314049586774 446.94214876033055 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='3' stroke-dasharray=''/></g></g></svg>"
+          },
+          {
+            "type": "FragmentSelector",
+            "value": "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_003.json#"
+          }
+        ],
+        "source": "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_003.json"
+      },
+      "id": "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_003.json/annotation/ea3de626-0b4e-4148-be81-c09e33925019",
+      "creationDate": "05.09.26, 11:16",
+      "creator": "detektIIIF User"
+    }
+  ],
+  "partOf": {
+    "id": "https://github.com/leanderseige/d4_test_annotations/tree/main/workspaces/ws2",
+    "label": {
+      "none": [
+        "ws2"
+      ]
+    },
+    "type": "Collection"
+  },
+  "target": "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_003.json",
+  "type": "AnnotationPage"
+}
