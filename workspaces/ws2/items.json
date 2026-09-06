@@ -1,0 +1,11 @@
+{
+  "https://e-codices.ch/metadata/iiif/saa-4530/manifest.json": {
+    "id": "https://e-codices.ch/metadata/iiif/saa-4530/manifest.json",
+    "url": "https://e-codices.ch/metadata/iiif/saa-4530/manifest.json",
+    "cors": true,
+    "error": 0,
+    "version": 2,
+    "label": "Aarau, Staatsarchiv Aargau, AA/4530",
+    "thumb": "https://e-codices.ch/loris/saa/saa-4530/saa-4530_e001.jp2/full/,100/0/default.jpg"
+  }
+}
