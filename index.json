@@ -1,35 +1,35 @@
 {
   "generatedBy": "detektIIIF",
   "type": "detektIIIF:WorkspaceIndex",
-  "updatedAt": "2026-09-06T04:59:57.704Z",
+  "updatedAt": "2026-09-06T05:32:43.413Z",
   "version": 1,
   "workspaces": {
     "default": {
       "annotations": {
         "https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-667/canvas/123768": {
-          "id": "https://github.com/leanderseige/d4_test_annotations/blob/main/workspaces/default/annotations/d8a86077-8d8e-5411-b87f-ff27fdef8c7a.json",
-          "itemCount": 1,
+          "id": "https://raw.githubusercontent.com/leanderseige/d4_test_annotations/main/workspaces/default/annotations/d8a86077-8d8e-5411-b87f-ff27fdef8c7a.json",
+          "itemCount": 2,
           "path": "workspaces/default/annotations/d8a86077-8d8e-5411-b87f-ff27fdef8c7a.json",
-          "updatedAt": "2026-09-05T09:12:57.656Z"
+          "updatedAt": "2026-09-06T05:32:43.412Z"
         }
       },
-      "annotationsUpdatedAt": "2026-09-05T09:12:57.656Z",
+      "annotationsUpdatedAt": "2026-09-06T05:32:43.412Z",
       "id": "default",
       "itemsPath": "workspaces/default/items.json",
       "itemsUpdatedAt": "2026-09-05T09:12:22.877Z",
       "name": "default",
-      "updatedAt": "2026-09-05T09:12:57.656Z"
+      "updatedAt": "2026-09-06T05:32:43.412Z"
     },
     "ws2": {
       "annotations": {
         "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_003.json": {
-          "id": "https://github.com/leanderseige/d4_test_annotations/blob/main/workspaces/ws2/annotations/7ee201f4-3e5f-5239-898e-492745aa8678.json",
+          "id": "https://raw.githubusercontent.com/leanderseige/d4_test_annotations/main/workspaces/ws2/annotations/7ee201f4-3e5f-5239-898e-492745aa8678.json",
           "itemCount": 3,
           "path": "workspaces/ws2/annotations/7ee201f4-3e5f-5239-898e-492745aa8678.json",
           "updatedAt": "2026-09-06T04:59:57.703Z"
         },
         "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_013.json": {
-          "id": "https://github.com/leanderseige/d4_test_annotations/blob/main/workspaces/ws2/annotations/b8ee3549-bacb-534e-be55-3c667cf35af4.json",
+          "id": "https://raw.githubusercontent.com/leanderseige/d4_test_annotations/main/workspaces/ws2/annotations/b8ee3549-bacb-534e-be55-3c667cf35af4.json",
           "itemCount": 1,
           "path": "workspaces/ws2/annotations/b8ee3549-bacb-534e-be55-3c667cf35af4.json",
           "updatedAt": "2026-09-06T04:59:57.703Z"
