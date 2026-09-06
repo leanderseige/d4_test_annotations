@@ -1,0 +1,40 @@
+{
+  "generatedBy": "detektIIIF",
+  "type": "detektIIIF:WorkspaceIndex",
+  "updatedAt": "2026-09-06T04:58:08.367Z",
+  "version": 1,
+  "workspaces": {
+    "default": {
+      "annotations": {
+        "https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-667/canvas/123768": {
+          "id": "https://github.com/leanderseige/d4_test_annotations/blob/main/workspaces/default/annotations/d8a86077-8d8e-5411-b87f-ff27fdef8c7a.json",
+          "itemCount": 1,
+          "path": "workspaces/default/annotations/d8a86077-8d8e-5411-b87f-ff27fdef8c7a.json",
+          "updatedAt": "2026-09-05T09:12:57.656Z"
+        }
+      },
+      "annotationsUpdatedAt": "2026-09-05T09:12:57.656Z",
+      "id": "default",
+      "itemsPath": "workspaces/default/items.json",
+      "itemsUpdatedAt": "2026-09-05T09:12:22.877Z",
+      "name": "default",
+      "updatedAt": "2026-09-05T09:12:57.656Z"
+    },
+    "ws2": {
+      "annotations": {
+        "https://e-codices.ch/metadata/iiif/saa-4530/canvas/saa-4530_003.json": {
+          "id": "https://github.com/leanderseige/d4_test_annotations/blob/main/workspaces/ws2/annotations/7ee201f4-3e5f-5239-898e-492745aa8678.json",
+          "itemCount": 3,
+          "path": "workspaces/ws2/annotations/7ee201f4-3e5f-5239-898e-492745aa8678.json",
+          "updatedAt": "2026-09-05T09:16:47.533Z"
+        }
+      },
+      "annotationsUpdatedAt": "2026-09-05T09:16:47.533Z",
+      "id": "ws2",
+      "itemsPath": "workspaces/ws2/items.json",
+      "itemsUpdatedAt": "2026-09-05T09:13:32.993Z",
+      "name": "ws2",
+      "updatedAt": "2026-09-05T09:16:47.533Z"
+    }
+  }
+}
