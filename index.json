@@ -1,24 +1,30 @@
 {
   "generatedBy": "detektIIIF",
   "type": "detektIIIF:WorkspaceIndex",
-  "updatedAt": "2026-09-06T06:16:12.854Z",
+  "updatedAt": "2026-09-06T06:17:13.384Z",
   "version": 1,
   "workspaces": {
     "default": {
       "annotations": {
+        "https://api.onb.ac.at/iiif/presentation/v3/manifest/1000C389/canvas/10": {
+          "id": "https://raw.githubusercontent.com/leanderseige/d4_test_annotations/main/workspaces/default/annotations/0b31a998-987a-5f69-8d98-62142397c387.json",
+          "itemCount": 1,
+          "path": "workspaces/default/annotations/0b31a998-987a-5f69-8d98-62142397c387.json",
+          "updatedAt": "2026-09-06T06:17:13.372Z"
+        },
         "https://sammlung.belvedere.at/apis/iiif/presentation/v2/1-objects-667/canvas/123768": {
           "id": "https://raw.githubusercontent.com/leanderseige/d4_test_annotations/main/workspaces/default/annotations/d8a86077-8d8e-5411-b87f-ff27fdef8c7a.json",
           "itemCount": 2,
           "path": "workspaces/default/annotations/d8a86077-8d8e-5411-b87f-ff27fdef8c7a.json",
-          "updatedAt": "2026-09-06T05:32:43.412Z"
+          "updatedAt": "2026-09-06T06:17:13.372Z"
         }
       },
-      "annotationsUpdatedAt": "2026-09-06T05:32:43.412Z",
+      "annotationsUpdatedAt": "2026-09-06T06:17:13.372Z",
       "id": "default",
       "itemsPath": "workspaces/default/items.json",
       "itemsUpdatedAt": "2026-09-06T06:16:12.852Z",
       "name": "default",
-      "updatedAt": "2026-09-06T06:16:12.852Z"
+      "updatedAt": "2026-09-06T06:17:13.372Z"
     },
     "ws2": {
       "annotations": {
