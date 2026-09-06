@@ -7,5 +7,14 @@
     "version": 2,
     "label": "Ehemaliges Hochaltarbild der Kapelle von Schloss Thurnmühle in Schwechat",
     "thumb": "https://sammlung.belvedere.at/apis/iiif/image/v2/123768/full/%21100%2C100/0/default.jpg"
+  },
+  "https://api.onb.ac.at/iiif/presentation/v3/manifest/1000C389": {
+    "id": "https://api.onb.ac.at/iiif/presentation/v3/manifest/1000C389",
+    "url": "https://api.onb.ac.at/iiif/presentation/v3/manifest/1000C389",
+    "cors": false,
+    "error": 0,
+    "version": 3,
+    "label": "Madame Herzog",
+    "thumb": "https://api.onb.ac.at/iiif/image/v3/1000C389/uk4nGb4kQHe3msbC/full/max/0/default.jpg"
   }
 }
